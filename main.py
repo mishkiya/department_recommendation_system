@@ -7,11 +7,22 @@ from evaluate import evaluate
 # DOCUMENTS (Departments)
 # -----------------------------
 documents = {
-    "Doc1": "Computer science department involves programming coding algorithms and data structures",
-    "Doc2": "Information technology department focuses on networking databases and system administration",
-    "Doc3": "Electrical engineering department deals with circuits electronics and power systems",
-    "Doc4": "Mechanical engineering department includes machines thermodynamics and manufacturing",
-    "Doc5": "Business administration department covers management marketing finance and entrepreneurship"
+
+    "Doc1": "Public administration development management leadership governance policy",
+    "Doc2": "Public relations communication media journalism strategic communication",
+    "Doc3": "Sociology social anthropology society culture human behavior",
+    "Doc4": "Special needs inclusive education teaching support disability education",
+    "Doc5": "Business administration information systems management business technology",
+    "Doc6": "Geography environmental studies earth environment climate mapping",
+    "Doc7": "History heritage studies past culture archaeology history",
+    "Doc8": "Logistics supply chain management transportation distribution business",
+    "Doc9": "Marketing advertising branding sales business market",
+    "Doc10": "Accounting finance banking money financial management",
+    "Doc11": "Economics microeconomics macroeconomics economy finance",
+    "Doc12": "Law legal justice court law governance",
+    "Doc13": "Engineering electrical computer civil mechanical technology",
+    "Doc14": "Medicine health science doctor hospital medical care",
+    "Doc15": "Education teaching curriculum instruction school learning"
 }
 
 # -----------------------------
