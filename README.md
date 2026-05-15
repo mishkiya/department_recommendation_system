@@ -1,9 +1,9 @@
 # Addisababa university department_recommendation_system
 ISR project on department recommendation
 
-🎓 AAU Department Recommendation System
+ AAU Department Recommendation System
 
-📌 Overview
+ Overview
 
 This project is an Information Retrieval (IR) system that recommends suitable departments at Addis Ababa University based on user interests.
 
@@ -11,7 +11,7 @@ The project was initiated because many freshman students coming from high school
 
 ---
 
-⚙️ How It Works
+ How It Works
 
 * Uses department descriptions as documents
 * Preprocesses text (lowercase, remove stopwords)
@@ -20,7 +20,7 @@ The project was initiated because many freshman students coming from high school
 * Matches and ranks departments
 * Recommends the most relevant ones
 
-▶️ How to Run
+ How to Run
 
 python main.py
 
@@ -28,7 +28,7 @@ Then enter your interest:
 
 Enter your interest: programming coding
 
-💡 Example
+ Example
 
 Input:
 
@@ -38,19 +38,19 @@ Output:
 
 Recommended: Marketing, Business Administration
 
-👥 Group Members
+ Group Members
 
-* Eyosias       UGR/    /17
+* Eyosias Eshetu - UGR/8558/17
 * Hana Tadesse — UGR/8575/17
 * Kearyam Belete — UGR/3823/17
 * Kidus Mesele — UGR/4287/17
 * Mishkiya Kamil — UGR/6720/17
 
-🛠️ Tech Used
+ Tech Used
 
 * Python
 * Information Retrieval concepts
 
-📚 Note
+ Note
 
 This is an academic project for learning purposes.
