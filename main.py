@@ -18,11 +18,6 @@ documents = {
     "Doc8": "Logistics supply chain management transportation distribution business",
     "Doc9": "Marketing advertising branding sales business market",
     "Doc10": "Accounting finance banking money financial management",
-    "Doc11": "Economics microeconomics macroeconomics economy finance",
-    "Doc12": "Law legal justice court law governance",
-    "Doc13": "Engineering electrical computer civil mechanical technology",
-    "Doc14": "Medicine health science doctor hospital medical care",
-    "Doc15": "Education teaching curriculum instruction school learning"
 }
 
 # -----------------------------
