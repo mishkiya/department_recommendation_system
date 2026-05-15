@@ -9,7 +9,6 @@ This project is an Information Retrieval (IR) system that recommends suitable de
 
 The project was initiated because many freshman students coming from high school are often confused when choosing a department. There is limited guidance to help them match their interests with the right field. This system helps solve that problem.
 
----
 
  How It Works
 
@@ -29,20 +28,17 @@ Then enter your interest:
 Enter your interest: programming coding
 
  Example
-
 Input:
-
 business marketing
 
 Output:
-
 Recommended: Marketing, Business Administration
 
  Group Members
 
 * Eyosias Eshetu - UGR/8558/17
 * Hana Tadesse — UGR/8575/17
-* Kearyam Belete — UGR/3823/17
+* Kearyam Belete — UGR/3468/17
 * Kidus Mesele — UGR/4287/17
 * Mishkiya Kamil — UGR/6720/17
 
